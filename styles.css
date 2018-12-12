@@ -1,0 +1,26 @@
+img{
+    Width:300px;
+    }
+body{
+    text-align:center;
+    background: url("http://images.1iphone5wallpaper.com/Gallery/06_iOS7/1-iPhone-5-Wallpaper-ios7-curtain.jpg");
+    }
+.title{
+    color:#A66AFC;
+   font-family: 'Pacifico', cursive;
+   font-size:50px;
+    }
+h2,h3{
+    color:#A66AFC;
+    font-family: 'Kaushan Script', cursive;
+    font-size:30px;
+    }
+#Spell1{
+    width:400px;
+    }
+#spellTwo{
+    width:400px;
+    }
+#spellThree{
+    width:400px;
+    }
